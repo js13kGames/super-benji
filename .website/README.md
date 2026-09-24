@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - action
+  - roguelike
 post: https://hseager.github.io/blog/game-dev/js13k/2025/09/19/super-benji-post-mortem.html
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
